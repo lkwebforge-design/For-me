@@ -1,0 +1,6 @@
+{
+  "name": "Cascadia Depth — Scroll-Velocity Alpine Video & Scene Study",
+  "description": "Interactive scroll-velocity video experience and depth-plane visual study reconstructing an alpine sunset landscape from farthest horizon peaks to nearest foreground wildlife.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
